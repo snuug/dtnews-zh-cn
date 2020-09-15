@@ -23,16 +23,16 @@
             <!-- {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%} -->
-            {%- if my_page.url | relative_url contains "/milesguo/" and my_page.title contains "郭文贵" -%}
+            {%- if my_page.url | relative_url contains "/milesguo/" and my_page.title contains "郭文贵" and my_page.title -%}
               {%- assign milesguo_url = my_page.url | relative_url -%}
               {%- assign milesguo_title = my_page.title | escape -%}
-            {%- elsif my_page.url | relative_url contains "/dt/" and my_page.title contains "DT挖掘爆料" -%}
+            {%- elsif my_page.url | relative_url contains "/dt/" and my_page.title contains "DT挖掘爆料" and my_page.title -%}
               {%- assign dt_url = my_page.url | relative_url -%}
               {%- assign dt_title = my_page.title | escape -%}
-            {%- elsif my_page.url | relative_url contains "/download/" and my_page.title contains "灭共文件汇编" -%}
+            {%- elsif my_page.url | relative_url contains "/download/" and my_page.title contains "灭共文件汇编" and my_page.title -%}
               {%- assign download_url = my_page.url | relative_url -%}
               {%- assign download_title = my_page.title | escape -%}
-            {%- elsif my_page.url | relative_url contains "/about/" and my_page.title contains "关于我们" -%}
+            {%- elsif my_page.url | relative_url contains "/about/" and my_page.title contains "关于我们" and my_page.title -%}
               {%- assign about_url = my_page.url | relative_url -%}
               {%- assign about_title = my_page.title | escape -%}
             {%- endif -%}
