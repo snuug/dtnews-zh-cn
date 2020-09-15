@@ -20,10 +20,10 @@
         <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            <!-- {%- if my_page.title -%}
+            {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%} -->
-            {%- if my_page.url | relative_url contains "/milesguo/" and my_page.title contains "郭文贵" -%}
+            {%- endif -%}
+            <!-- {%- if my_page.url | relative_url contains "/milesguo/" and my_page.title contains "郭文贵" -%}
               {%- assign milesguo_url = my_page.url | relative_url -%}
             {%- elsif my_page.url | relative_url contains "/dt/" and my_page.title contains "DT挖掘爆料" -%}
               {%- assign dt_url = my_page.url | relative_url -%}
@@ -31,12 +31,12 @@
               {%- assign download_url = my_page.url | relative_url -%}
             {%- elsif my_page.url | relative_url contains "/about/" and my_page.title contains "关于我们" -%}
               {%- assign about_url = my_page.url | relative_url -%}
-            {%- endif -%}
+            {%- endif -%} -->
           {%- endfor -%}
-          <a class="page-link" href="{{ milesguo_url }}">郭文贵</a>
+          <!-- <a class="page-link" href="{{ milesguo_url }}">郭文贵</a>
           <a class="page-link" href="{{ dt_url }}">DT挖掘爆料</a>
           <a class="page-link" href="{{ download_url }}">灭共文件汇编</a>
-          <a class="page-link" href="{{ about_url }}">关于我们</a>
+          <a class="page-link" href="{{ about_url }}">关于我们</a> -->
         </div>
       </nav>
     {%- endif -%}
