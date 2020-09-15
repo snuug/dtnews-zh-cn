@@ -18,22 +18,25 @@
         </label>
 
         <div class="trigger">
-          {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- for path in page_paths -%}
-            {%- if page.url contains "/milesguo/" -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            <!-- {%- if my_page.title -%}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {%- endif -%} -->
+            {%- if my_page.url | relative_url contains "/milesguo/" and my_page.title contains "郭文贵" -%}
               {%- assign milesguo_url = my_page.url | relative_url -%}
-            {%- elsif page.url contains "/dt/" -%}
-              {%- assign dt_url = my_page.url | relative_url }} -%}
-            {%- elsif page.url contains "/download/" -%}
+            {%- elsif my_page.url | relative_url contains "/dt/" and my_page.title contains "DT挖掘爆料" -%}
+              {%- assign dt_url = my_page.url | relative_url -%}
+            {%- elsif my_page.url | relative_url contains "/download/" and my_page.title contains "灭共文件汇编" -%}
               {%- assign download_url = my_page.url | relative_url -%}
-            {%- elsif page.url contains "/about/" -%}
-              {%- assign about_url = my_page.url | relative_url -%}          
+            {%- elsif my_page.url | relative_url contains "/about/" and my_page.title contains "关于我们" -%}
+              {%- assign about_url = my_page.url | relative_url -%}
             {%- endif -%}
           {%- endfor -%}
-          <a class="page-link" href="{{ milesguo_url }}/milesguo/">郭文贵</a>
-          <a class="page-link" href="{{ dt_url }}/dt/">DT挖掘爆料</a>
-          <a class="page-link" href="{{ download_url }}/download/">灭共文件汇编</a>
-          <a class="page-link" href="{{ about_url }}/about/">关于我们</a>
+          <a class="page-link" href="{{ milesguo_url }}">郭文贵</a>
+          <a class="page-link" href="{{ dt_url }}">DT挖掘爆料</a>
+          <a class="page-link" href="{{ download_url }}">灭共文件汇编</a>
+          <a class="page-link" href="{{ about_url }}">关于我们</a>
         </div>
       </nav>
     {%- endif -%}
