@@ -9,24 +9,24 @@ meta: "Springfield"
 
 [PDF下载](../../../../download/CCP_Virus_From_CCP.pdf)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_1.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_1.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_2.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_2.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_3.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_3.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_4.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_4.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_5.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_5.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_6.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_6.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_7.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_7.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_8.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_8.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_9.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_9.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_10.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_10.jpg)
 
-![image](../../../../image/home/CCP_Virus_From_CCP_11.jpg)
+![image](../../../../image/dt/CCP_Virus_From_CCP_11.jpg)
