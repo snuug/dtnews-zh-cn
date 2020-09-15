@@ -17,3 +17,5 @@ permalink: /download/
 [司法部文件中文无代号版·中文版·PDF下载](../../../../download/lum_information_Aug_2020_zh_cn.pdf)
 
 [司法部文件中文件·英文版·PDF下载](../../../../download/lum_information_Aug_2020.pdf)
+
+[P4实验室第三季外传篇_9_“毒苹果”终于露出狰狞面目·PDF下载](../../../../download/Poisonous_apple.pdf)
