@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "苹果日报有毒！！！"
-categories: home
+categories: dt
 author:
 - DT团队
 meta: "Springfield"
