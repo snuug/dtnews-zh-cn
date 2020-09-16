@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月14号·郭文贵盖特"
+title: "2020年9月14号·郭文贵盖特·我们爆料革命所有的战友们到了和苹果日报说再见的时候了……"
 categories: milesguo
 author:
 - Miles Guo

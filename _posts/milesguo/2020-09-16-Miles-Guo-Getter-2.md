@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月15号·郭文贵盖特"
+title: "2020年9月15号·郭文贵盖特·尊敬的战友们好．二十四小时内"
 categories: milesguo
 author:
 - Miles Guo

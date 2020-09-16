@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月15号·郭文贵盖特"
+title: "2020年9月15号·郭文贵盖特·尊敬的战友们请动起你们的金手指拼命的转推FOX这个推文"
 categories: milesguo
 author:
 - Miles Guo
