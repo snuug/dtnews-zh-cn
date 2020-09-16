@@ -29,6 +29,9 @@
             {%- elsif my_page.url | relative_url contains "/dt/" and my_page.title contains "DT挖掘爆料" and my_page.title -%}
               {%- assign dt_url = my_page.url | relative_url -%}
               {%- assign dt_title = my_page.title | escape -%}
+            {%- elsif my_page.url | relative_url contains "/himalayahawksquad/" and my_page.title contains "喜马拉雅战鹰团" and my_page.title -%}
+              {%- assign himalayahawksquad_url = my_page.url | relative_url -%}
+              {%- assign himalayahawksquad_title = my_page.title | escape -%}
             {%- elsif my_page.url | relative_url contains "/download/" and my_page.title contains "灭共文件汇编" and my_page.title -%}
               {%- assign download_url = my_page.url | relative_url -%}
               {%- assign download_title = my_page.title | escape -%}
@@ -39,6 +42,7 @@
           {%- endfor -%}
           <a class="page-link" href="{{ milesguo_url }}">{{ milesguo_title | escape }}</a>
           <a class="page-link" href="{{ dt_url }}">{{ dt_title | escape }}</a>
+          <a class="page-link" href="{{ himalayahawksquad_url }}">{{ himalayahawksquad_title | escape }}</a>
           <a class="page-link" href="{{ download_url }}">{{ download_title | escape }}</a>
           <a class="page-link" href="{{ about_url }}">{{ about_title | escape }}</a>
         </div>
