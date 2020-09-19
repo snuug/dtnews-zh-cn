@@ -7,6 +7,6 @@ author:
 meta: "Springfield"
 ---
 
-9月19日：共产党你彻底的完了！ 
+9月19号：应战友们的要求，随手拍几张照片，一切都已经开始！
 
 ![image](../../../../image/milesguo/2020_09_20_Miles_Guo_Getter_4.jpg)
