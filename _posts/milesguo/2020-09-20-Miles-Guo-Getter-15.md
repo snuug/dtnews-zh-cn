@@ -18,3 +18,4 @@ Miles Guo: The CCP threatens Taiwan but is in fact a paper tiger. Mike Pompeo is
 <center>
 <iframe width="640" height="440" src="../../../../video/milesguo/2020_09_20_Miles_Guo_Getter_15.MOV" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
