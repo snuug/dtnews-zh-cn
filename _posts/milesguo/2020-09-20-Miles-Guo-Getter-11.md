@@ -1,0 +1,18 @@
+---
+layout: page
+title: "2020年9月19号·郭文贵盖特·这位法国的英雄"
+categories: milesguo
+author:
+- Miles Guo
+meta: "Springfield"
+---
+
+9月19号：这位法国的英雄．罗宾先生，每个字每句话．都深深地打动了文贵。
+
+我们将解放法兰西．将CCP从法国抹去！将自由还给法兰西．还给法国人民！！！
+
+我们将解放欧洲……将自由女神带回自由的欧洲！再次成为真正的自由世界的女神．我们还会在欧洲找回雅吉娜女神！……任何一位战友看到这位罗宾先生都要向他致谢！真正的法兰西英雄！ 
+
+<center>
+<iframe width="480" height="264" src="../../../../video/milesguo/2020_09_20_Miles_Guo_Getter_11.m4v" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
