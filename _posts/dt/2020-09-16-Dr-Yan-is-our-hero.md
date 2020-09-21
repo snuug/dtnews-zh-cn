@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "【DT爱乐乐团】Dr.Yan is our hero"
+title: "【DT TEAM 原创】·【DT爱乐乐团】Dr.Yan is our hero"
 categories: dt
 author:
 - DT团队
