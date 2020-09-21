@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "【P4实验室第三季外传篇 】9 “毒苹果”终于露出狰狞面目 修订版"
+title: "【DT 挖掘爆料】·【P4实验室第三季外传篇 】9 “毒苹果”终于露出狰狞面目 修订版"
 categories: dt
 author:
 - DT团队
