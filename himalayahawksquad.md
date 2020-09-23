@@ -1,5 +1,5 @@
 ---
-layout: himalayahawksquad
-title: 喜马拉雅战鹰团
-permalink: /himalayahawksquad/
+layout: hhs
+title: 战鹰团
+permalink: /hhs/
 ---
