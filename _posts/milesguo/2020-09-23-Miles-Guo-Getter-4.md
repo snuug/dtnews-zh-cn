@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月21号·郭文贵盖特·只为让世界早日了解真相"
+title: "2020年9月22号·郭文贵盖特·只为让世界早日了解真相"
 categories: milesguo
 author:
 - Miles Guo
