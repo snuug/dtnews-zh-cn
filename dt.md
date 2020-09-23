@@ -1,5 +1,5 @@
 ---
 layout: dt
-title: DT挖掘爆料
+title: DT挖掘
 permalink: /dt/
 ---
