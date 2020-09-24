@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月22号·郭文贵盖特·给战友们汇报一下，国内政治以及灭共的国际形势．"
+title: "2020年9月23号·郭文贵盖特·给战友们汇报一下，国内政治以及灭共的国际形势．"
 categories: milesguo
 author:
 - Miles Guo

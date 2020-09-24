@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月21号·郭文贵盖特·被洗脑的中国人．我们的同胞．真正缺的不是粮食．缺的是．良心"
+title: "2020年9月22号·郭文贵盖特·被洗脑的中国人．我们的同胞．真正缺的不是粮食．缺的是．良心"
 categories: milesguo
 author:
 - Miles Guo
