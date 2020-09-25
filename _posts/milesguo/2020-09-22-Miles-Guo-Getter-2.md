@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月21号·郭文贵盖特·战友们千万要注意安全……这小子可是有犯罪前科呀…… "
+title: "2020年9月21号·郭文贵盖特·我相信LA警方会依法公正！战友们千万要注意安全……"
 categories: milesguo
 author:
 - Miles Guo

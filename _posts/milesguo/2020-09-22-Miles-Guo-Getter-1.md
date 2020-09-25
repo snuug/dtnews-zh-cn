@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月21号·郭文贵盖特·我文贵可以支持你所有的费用去干这事儿！"
+title: "2020年9月21号·郭文贵盖特·必须要为替共产党干赃活付上一切法律责任……"
 categories: milesguo
 author:
 - Miles Guo
