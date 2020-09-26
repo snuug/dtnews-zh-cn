@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月20号·郭文贵盖特·中共搞乱了美国，原因之一是美国严重的官僚主义"
+title: "2020年9月20号·郭文贵盖特·中共对外的五个武器，以社交媒体为首"
 categories: milesguo
 author:
 - Miles Guo

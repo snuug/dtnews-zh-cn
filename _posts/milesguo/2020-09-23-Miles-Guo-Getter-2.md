@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020年9月21号·郭文贵盖特·竟然连妇女都不放过"
+title: "2020年9月21号·请大家看看这就是当年乌坎的英雄，就这副德行"
 categories: milesguo
 author:
 - Miles Guo
