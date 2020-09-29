@@ -7,7 +7,7 @@ author:
 meta: "Springfield"
 ---
 
-September 29th, greetings to our fellow fighters! This is the disinformation spread by Bob Fu (Fu Xiqiu) in Washington, US these days, which is a complete falsification, distortion and frame up of myself, our Whistleblower Movement and our actions to clean up the CCP’s spies in the US. Fu Xiqiu, he must respond to the people in the US and around the world whether he is a member of the CCP! Is he a member of the CCP? Who’s given him the authority to represent the Chinese Christianity and Catholic? Who has provided him with millions of dollars of donation every year from the CCP, and where has all the money gone? We’ve launched our peaceful demonstrations according to the US laws while he’s sent forged documents to these US Congressmen to whom he’s made donations. He’s been spreading rumors and threatening us. This is a legitimate fight to take down the CCP’s spies. We must continue our fight and keep it up till the revelation of the truth! 
+9月29日 尊敬的战友们好！这是Bob Fu（傅希秋）这几天在美国华盛顿转发的，完全造假，彻底篡改歪曲陷害文贵爆料革命和我们在美国找出间谍的运动，清理在美国的中共特务间谍的运动。傅希秋是不是共产党员，傅希秋必须回答美国和世界人民！他到底是不是共产党员？谁让他代表的基督教徒，天主教徒？他每年固定的几百万美元来自中共的捐款是谁给他的，这些钱又去了哪里？我们依照美国的法律和平的抗议，他却篡改，并且发给他所谓捐款的美国国会议员，到处造谣威胁，我们这是一场消灭共产党间谍的依法的活动，必须继续，一定会持续下去，直到彻底找到真相为止！ 
 
 <center>
 <iframe width="640" height="440" src="../../../../video/milesguo/2020_09_29_Miles_Guo_Getter_2.MOV" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
