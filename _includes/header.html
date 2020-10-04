@@ -41,15 +41,19 @@
             {%- elsif my_page.url | relative_url contains "/hk/" and my_page.title contains "香港" and my_page.title -%}
               {%- assign hk_url = my_page.url | relative_url -%}
               {%- assign hk_title = my_page.title | escape -%}
-            {%- elsif my_page.url | relative_url contains "/world/" and my_page.title contains "病毒真相多国语言" and my_page.title -%}
-              {%- assign world_url = my_page.url | relative_url -%}
-              {%- assign world_title = my_page.title | escape -%}
+            {%- elsif my_page.url | relative_url contains "/bdzx/" and my_page.title contains "病毒真相" and my_page.title -%}
+              {%- assign bdzx_url = my_page.url | relative_url -%}
+              {%- assign bdzx_title = my_page.title | escape -%}
+            {%- elsif my_page.url | relative_url contains "/dgyy/" and my_page.title contains "Multi-lingual" and my_page.title -%}
+              {%- assign dgyy_url = my_page.url | relative_url -%}
+              {%- assign dgyy_title = my_page.title | escape -%}
             {%- endif -%}
           {%- endfor -%}
           <!-- <a class="page-link" href="{{ hk_url }}">{{ hk_title | escape }}</a> -->
           <a class="page-link" href="{{ milesguo_url }}">{{ milesguo_title | escape }}</a>
           <a class="page-link" href="{{ dt_url }}">{{ dt_title | escape }}</a>
-          <!-- <a class="page-link" href="{{ world_url }}">{{ world_title | escape }}</a> -->
+          <a class="page-link" href="{{ bdzx_url }}">{{ bdzx_title | escape }}</a>
+          <a class="page-link" href="{{ dgyy_url }}">{{ dgyy_title | escape }}</a>
           <!-- <a class="page-link" href="{{ himalayahawksquad_url }}">{{ himalayahawksquad_title | escape }}</a> -->
           <a class="page-link" href="{{ download_url }}">{{ download_title | escape }}</a>
           <a class="page-link" href="{{ about_url }}">{{ about_title | escape }}</a>
