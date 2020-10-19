@@ -1,11 +1,27 @@
 ---
 layout: page
-title: "【DT 挖掘爆料】·【P4实验室第三季外传篇 】9 “毒苹果”终于露出狰狞面目 修订版"
+title: "【DT挖掘爆料】·“毒苹果”终于露出狰狞面目 修订版"
 categories: dt
 author:
 - DT团队
 meta: "Springfield"
 ---
+
+<center>
+    <img src="../../../../image/dt/logo.png"/>
+</center>
+
+<center>
+    <font size=4>
+        DT团队出品
+    </font>
+</center>
+    
+**<center><font size=5>《P4实验室系列》第三季外传篇</font></center>**
+    
+**<center><font size=6>“毒苹果”终于露出狰狞面目 修订版</font></center>**
+
+<hr>
 
 [【P4实验室第三季外传篇 】9 “毒苹果”终于露出狰狞面目 修订版·PDF下载](../../../../download/Poisonous_apple_update.pdf)
 
