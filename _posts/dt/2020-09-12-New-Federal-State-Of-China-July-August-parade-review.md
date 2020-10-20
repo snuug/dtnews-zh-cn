@@ -17,7 +17,7 @@ meta: "Springfield"
     </font>
 </center>
     
-**<center><font size=5>新中国联邦7-8月游行回顾</font></center>**
+**<center><font size=6>新中国联邦7-8月游行回顾</font></center>**
 
 <hr>
 
