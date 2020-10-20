@@ -1,11 +1,27 @@
 ---
 layout: page
-title: "【DT 挖掘爆料】·DT团队6月 发布 P4实验室第2季 《为什么说中共病毒不可能源于自然而必然产生于实验室》辅助阅读"
+title: "【DT挖掘爆料】·为什么说中共病毒不可能源于自然而必然产生于实验室"
 categories: dt
 author:
 - DT团队
 meta: "Springfield"
 ---
+
+<center>
+    <img src="../../../../image/dt/logo.png"/>
+</center>
+
+<center>
+    <font size=4>
+        DT团队出品
+    </font>
+</center>
+    
+**<center><font size=5>《P4实验室系列》第二季</font></center>**
+    
+**<center><font size=6>为什么说中共病毒不可能源于自然而必然产生于实验室</font></center>**
+
+<hr>
 
 [PDF下载](../../../../download/CCP_Virus_From_CCP.pdf)
 

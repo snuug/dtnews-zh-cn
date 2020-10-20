@@ -26,3 +26,8 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+image/preview
+video/preview
+audio/preview
+_posts/preview
+preview

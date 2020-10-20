@@ -1,11 +1,25 @@
 ---
 layout: page
-title: "【DT 挖掘爆料】·司法部文件中文无代号版"
+title: "司法部文件中文无代号版"
 categories: dt
 author:
 - DT团队
 meta: "Springfield"
 ---
+
+<center>
+    <img src="../../../../image/dt/logo.png"/>
+</center>
+
+<center>
+    <font size=4>
+        DT团队出品
+    </font>
+</center>
+    
+**<center><font size=6>司法部文件中文无代号版</font></center>**
+
+<hr>
 
 [司法部文件中文无代号版·中文版·PDF下载](../../../../download/lum_information_Aug_2020_zh_cn.pdf)
 
