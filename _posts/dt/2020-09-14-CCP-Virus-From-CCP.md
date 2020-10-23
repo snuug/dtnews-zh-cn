@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "【DT挖掘爆料】·为什么说中共病毒不可能源于自然而必然产生于实验室"
-categories: dt
+categories: bdzx
 author:
 - DT团队
 meta: "Springfield"
