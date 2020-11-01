@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "『10月29日 郭文贵先生盖文』·2"
+title: "『10月30日 郭文贵先生盖文』·1"
 categories: milesguo
 author:
 - Miles Guo
@@ -17,5 +17,5 @@ Pre-order link:
 http://gyro.lnk.to/DrinkingDownTheCCP 
 
 <center>
-<iframe width="640" height="440" src="../../../../video/milesguo/2020_10_29_Miles_Guo_Getter_2.MOV" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="440" src="../../../../video/milesguo/2020_10_30_Miles_Guo_Getter_1.MOV" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
