@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: DTinLax21
+    # twitter: 
     github:  DTNEWS
     # devto: jekyll
     # dribbble: jekyll
